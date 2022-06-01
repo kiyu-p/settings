@@ -1,0 +1,99 @@
+{
+  "workbench.startupEditor": "none",
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "emmet.triggerExpansionOnTab": true,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "all",
+  "terminal.integrated.copyOnSelection": true,
+  "markdown-preview-enhanced.enableExtendedTableSyntax": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "markdown-image.base.fileNameFormat": "# posts/${mdname}/${timestamp}",
+  "markdown-image.coding.path": "/images",
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+  "pasteImage.path": "${currentFileDir}/images",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "typescript.referencesCodeLens.enabled": true,
+  "typescript.referencesCodeLens.showOnAllFunctions": true,
+  "markdown.extension.toc.levels": "2..3",
+  "git.confirmSync": false,
+  "editor.linkedEditing": true,
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "editor.bracketPairColorization.enabled": false,
+  "terminal.integrated.tabs.location": "left",
+  "liveshare.connectionMode": "relay",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "vsnotes.defaultNotePath": "c:\\OneDrive\\OneDrive - 株式会社内田洋行ITソリューションズ\\メモ用", //##タグから###まで見出し番号を振る
+  "vsnotes.tokens": [
+    {
+      "type": "datetime",
+      "token": "{dt}",
+      "format": "MMDD",
+      "description": "Insert formatted datetime."
+    },
+    {
+      "type": "title",
+      "token": "{title}",
+      "description": "Insert note title from input box.",
+      "format": "Untitled"
+    },
+    {
+      "type": "extension",
+      "token": "{ext}",
+      "description": "Insert file extension.",
+      "format": "md"
+    }
+  ],
+  "vsnotes.templates": [
+    "API",
+    "Angular",
+    "Angular Material",
+    "C#",
+    "DB",
+    "Git",
+    "HTML/CSS",
+    "TS/JS",
+    "node",
+    "アジャイル/スクラム",
+    "クラウド/Azure",
+    "ツール",
+    "技推/全般",
+    "社内システム",
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.detectIndentation": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "markdown-preview-enhanced.previewTheme": "vue.css",
+  "markdown-preview-enhanced.codeBlockTheme": "darcula.css",
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.guides.bracketPairs": true,
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "azureResourceManagerTools.parameterFiles": {
+    "c:\\users\\kijima\\ドキュメント\\70_資格学習・外部研修\\az-204研修\\module05-demo\\azuredeploy.json": "azuredeploy.parameters.json"
+  },
+  "window.zoomLevel": 1,
+}

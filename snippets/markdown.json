@@ -1,0 +1,200 @@
+{
+	// Place your snippets for markdown here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"vsnote_template_API": {
+		"prefix": "vsnote_template_API",
+		"body": [
+			"---",
+			"tags:",
+			"  - API ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with API",
+	},
+	"vsnote_template_Angular": {
+		"prefix": "vsnote_template_Angular",
+		"body": [
+			"---",
+			"tags:",
+			"  - Angular ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with Angular",
+	},
+	"vsnote_template_Angular Material": {
+		"prefix": "vsnote_template_Angular Material",
+		"body": [
+			"---",
+			"tags:",
+			"  - Angular Material ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with Angular Material",
+	},
+	"vsnote_template_C#": {
+		"prefix": "vsnote_template_C#",
+		"body": [
+			"---",
+			"tags:",
+			"  - C# ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with C#",
+	},
+	"vsnote_template_DB": {
+		"prefix": "vsnote_template_DB",
+		"body": [
+			"---",
+			"tags:",
+			"  - DB ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with DB",
+	},
+	"vsnote_template_Git": {
+		"prefix": "vsnote_template_Git",
+		"body": [
+			"---",
+			"tags:",
+			"  - Git ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with Git",
+	},
+	"vsnote_template_HTML/CSS": {
+		"prefix": "vsnote_template_HTML/CSS",
+		"body": [
+			"---",
+			"tags:",
+			"  - HTML/CSS ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with HTML/CSS",
+	},
+	"vsnote_template_TS/JS": {
+		"prefix": "vsnote_template_TS/JS",
+		"body": [
+			"---",
+			"tags:",
+			"  - TS/JS ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with TS/JS",
+	},
+	"vsnote_template_node": {
+		"prefix": "vsnote_template_node",
+		"body": [
+			"---",
+			"tags:",
+			"  - node ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with node",
+	},
+	"vsnote_template_アジャイル/スクラム": {
+		"prefix": "vsnote_template_アジャイル/スクラム",
+		"body": [
+			"---",
+			"tags:",
+			"  - アジャイル/スクラム ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with アジャイル/スクラム",
+	},
+	"vsnote_template_クラウド/Azure": {
+		"prefix": "vsnote_template_クラウド/Azure",
+		"body": [
+			"---",
+			"tags:",
+			"  - クラウド/Azure ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with クラウド/Azure",
+	},
+	"vsnote_template_ツール": {
+		"prefix": "vsnote_template_ツール",
+		"body": [
+			"---",
+			"tags:",
+			"  - ツール ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with ツール",
+	},
+	"vsnote_template_技推/全般": {
+		"prefix": "vsnote_template_技推/全般",
+		"body": [
+			"---",
+			"tags:",
+			"  - 技推/全般 ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with 技推/全般",
+	},
+	"vsnote_template_社内システム": {
+		"prefix": "vsnote_template_社内システム",
+		"body": [
+			"---",
+			"tags:",
+			"  - 社内システム ",
+			"---",
+			"\n",
+			"# ",
+			"\n",
+		],
+		"description": "Template with 社内システム",
+	},
+
+
+}
+
